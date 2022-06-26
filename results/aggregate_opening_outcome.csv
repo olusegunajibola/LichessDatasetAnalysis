@@ -1,0 +1,25 @@
+opening_name,victory_status,count
+Sicilian Defense,resign,204
+Van't Kruijs Opening,resign,171
+Scotch Game,resign,166
+Sicilian Defense: Bowdler Attack,resign,160
+French Defense: Knight Variation,resign,158
+Scandinavian Defense: Mieses-Kotroc Variation,resign,134
+Sicilian Defense,outoftime,32
+Van't Kruijs Opening,outoftime,27
+Sicilian Defense: Bowdler Attack,outoftime,24
+Scotch Game,outoftime,21
+Scandinavian Defense: Mieses-Kotroc Variation,outoftime,16
+French Defense: Knight Variation,outoftime,14
+Van't Kruijs Opening,mate,154
+Sicilian Defense,mate,110
+Scandinavian Defense: Mieses-Kotroc Variation,mate,103
+Sicilian Defense: Bowdler Attack,mate,100
+French Defense: Knight Variation,mate,84
+Scotch Game,mate,74
+Van't Kruijs Opening,draw,16
+French Defense: Knight Variation,draw,15
+Sicilian Defense,draw,12
+Sicilian Defense: Bowdler Attack,draw,12
+Scotch Game,draw,10
+Scandinavian Defense: Mieses-Kotroc Variation,draw,6

@@ -1,0 +1,18 @@
+This is a dataset of over 20,000 games collected from a selection of users on the site Lichess.org.
+This dataset contains the:
+
+Game ID;
+Start Time;
+End Time;
+Number of Turns;
+Game Status;
+Winner;
+Time Increment;
+White Player ID;
+White Player Rating;
+Black Player ID;
+Black Player Rating;
+All Moves in Standard Chess Notation;
+Opening Eco (Standardised Code for any given opening, list here);
+Opening Name;
+Opening Ply (Number of moves in the opening phase)
