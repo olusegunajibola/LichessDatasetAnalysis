@@ -1,4 +1,4 @@
 # LichessDatasetAnalysis
 
 
-A analysis of the Lichess dataset.
+An analysis of the Lichess dataset.
